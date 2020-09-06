@@ -1,0 +1,4 @@
+rootProject.name = 'Spring_Jms_sample1'
+
+include 'jms-sender'
+include 'jms-receiver1'
